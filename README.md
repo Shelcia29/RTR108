@@ -7,6 +7,6 @@
 6.**ls -la** - Shows all file or directory including hidden files, size, modified date and time, file or folder name and owner of file and its permission        
 7.**cd** - Change the working directory     
 8.**cd /** - Change into the root directory, making it your working directory     
-9.__cd ~__ - Changes into your home directory       
+9.cd ~ - Changes into your home directory       
 10.**cd .** - Change us into the current directory      
 11.**cd ..** - The parent directory of the current directory. _(!!For example: If we were in the directory /home/username/downloads, we would be placed in the directory /home/username!!)_      
