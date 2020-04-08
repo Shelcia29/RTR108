@@ -1,4 +1,5 @@
-# RTR108
+## RTR108
+# Task 1 - Linux commands
 1.**whoami** - It displays the username of the current user    
 2.**pwd** - Print the name of the working directory     
 3.**ls** - List files and directories in bare format where we won’t be able to view details like file types, size, modified date and time, permission and links etc     
@@ -10,3 +11,7 @@
 9.cd ~ - Changes into your home directory       
 10.**cd .** - Change us into the current directory      
 11.**cd ..** - The parent directory of the current directory. _(!!For example: If we were in the directory /home/username/downloads, we would be placed in the directory /home/username!!)_      
+# Task 2 - Python_lessons              
+All the practice works are placed in the folder named as python_lesson which is created by using colaboratory.         
+# Task 3 - math func aprox using Taylor series         
+In this task I have given the function asin(x). Which is been programed and placed in two files numerical_method_Taylor_series(1) and numerical_method_Taylor_series. You can use "numerical_method_Taylor_series" file to run the program.            
