@@ -16,4 +16,4 @@ All the practice works are placed in the folder named as python_lesson which is 
 # Task 3 - math func aprox using Taylor series         
 In this task I have given the function asin(x). Which is been programed and placed in two files numerical_method_Taylor_series(1) and numerical_method_Taylor_series. You can use "numerical_method_Taylor_series" file to run the program.            
 # Task 4 - NGspice and Latex         
-All the works of this task in placed under the folder "works". This task is achevied by using NGspice and Latex.
+All the works of this task in placed under the folder "gEDA & LaTeX". This task is achevied by using gEDA tools and Latex.
