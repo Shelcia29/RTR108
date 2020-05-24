@@ -1,0 +1,12 @@
+My game
+
+Instructions to run the game. 
+
+Dowbload both the guess_the_word_gui.py and mainimg.png
+To a folder. 
+
+Run a terminal and navigate to this folder containing
+Both the files and execute the guess_the_word_gui.py using
+The command "python3 guess_the_word_gui.py" 
+
+Thank you 
